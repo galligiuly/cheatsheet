@@ -50,3 +50,5 @@ Since the documentation for this specific purpuse is quite scattered, I've decid
 
 [My Linkedin](https://www.linkedin.com/in/giulia-galli-7669ba85/?locale=en_US)
 
+[Project Presentation](https://slides.com/galligiuly/sftp-bigquery-automatization-company)
+
