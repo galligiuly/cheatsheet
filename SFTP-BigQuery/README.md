@@ -20,9 +20,10 @@ Since the documentation for this specific purpuse is quite scattered, I've decid
 
 - Connection and upload to a BigQuery table of one csv
 
-  
 
-#Tools used
+
+
+#Tools User
 
 - Jupyter notebook
 - BigQuery
