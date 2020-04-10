@@ -23,7 +23,7 @@ Since the documentation for this specific purpuse is quite scattered, I've decid
 
 
 
-#Tools User
+# Tools Used
 
 - Jupyter notebook
 - BigQuery
